@@ -1,0 +1,2 @@
+last_input_dir=
+last_export_dir=
